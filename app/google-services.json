@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128470364564",
+    "project_id": "analytics-cd597",
+    "storage_bucket": "analytics-cd597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128470364564:android:f5297169034b0c9eca1f81",
+        "android_client_info": {
+          "package_name": "io.github.leoallvez.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128470364564-7fhscincp7ura6ejpudg8nbmlhc5rrc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7q7EpFZIiu3t5fekDDMSxaO9DsUuvsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128470364564-7fhscincp7ura6ejpudg8nbmlhc5rrc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
